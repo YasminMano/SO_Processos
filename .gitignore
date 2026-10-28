@@ -1,0 +1,16 @@
+# Executaveis e arquivos gerados pelo Zig
+exercicio1
+zumbi
+*.o
+*.obj
+.zig-cache/
+zig-cache/
+zig-out/
+
+# Arquivos de testes
+orfao.zig
+zumbi.zig
+resultado.txt
+
+# Sistema operacional
+.DS_Store
